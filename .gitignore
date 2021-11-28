@@ -1,3 +1,7 @@
 target/
 *.iml
 .idea/
+mvnw.cmd
+mvnw
+HELP.md
+.mvn
